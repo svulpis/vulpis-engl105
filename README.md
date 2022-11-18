@@ -1,4 +1,4 @@
-# Vulpis-105
+# The Sea Level Story of the Past Two Decades
 **This repository was created for Prof. Gotzler's English 105 class in the Fall 2022 semester at the University of North Carolina at Chapel Hill.**
 
 - It contains the raw data set and the subset of data that was created by manipulating the raw data using Python3.
