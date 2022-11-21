@@ -25,3 +25,9 @@
 - Individuals in the general public could also use this repository to create a subset for the region they live in. 
 >This could help them visualize how their region has changed in the last 20 years.
 - For more information on how the Actuaries Climate Index is used, feel free to view the executive summary that they have published [here](https://actuariesclimateindex.org/wp-content/uploads/2016/04/ACI.ExecutiveSummary5.18.pdf).
+
+## Data Visualization
+- The subset created using the process outlined in the Python notebook was slightly altered using Microsoft Excel.
+>No data was altered in this process, but the `2001` and `2021` rows were condensed into two columns and the `SEA SeaLevel (mm)` column was removed.
+>The `Month` column was adjusted accordingly.
+![Southeast Atlantic Region Sea Level (in mm) Visual](visualization-southeast-atlantic-region-sea-level-in-mm-.png)
