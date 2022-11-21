@@ -34,4 +34,4 @@
 - This visualization was created using Datawrapper. You can visit their website [here](https://www.datawrapper.de/) if you wish to create your own visualization of the data.
 >Datawrapper requires users to create a free account before getting started.
 
-![Southeast Atlantic Region Sea Level (in mm) Visual](visualization-southeast-atlantic-region-sea-level-in-mm-.png)
+![Southeast Atlantic Region Sea Level (in mm) Visual](Visualization/visualization-southeast-atlantic-region-sea-level-in-mm-.png)
