@@ -29,5 +29,7 @@
 ## Data Visualization
 - The subset created using the process outlined in the Python notebook was slightly altered using Microsoft Excel.
 >No data was altered in this process, but the `2001` and `2021` rows were condensed into two columns and the `SEA SeaLevel (mm)` column was removed.
+
 >The `Month` column was adjusted accordingly.
+
 ![Southeast Atlantic Region Sea Level (in mm) Visual](visualization-southeast-atlantic-region-sea-level-in-mm-.png)
