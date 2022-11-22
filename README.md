@@ -29,6 +29,8 @@
   
 - For more information on how the Actuaries Climate Index is used, feel free to view the executive summary that they have published [here](https://actuariesclimateindex.org/wp-content/uploads/2016/04/ACI.ExecutiveSummary5.18.pdf).
 
+---
+
 ## Data Visualization
 - The subset created using the process outlined in the Python notebook was slightly altered using Microsoft Excel. Both the original subset and the altered subset for the visual can be found in the files of this repository.
 
